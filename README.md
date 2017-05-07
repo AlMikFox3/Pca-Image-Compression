@@ -1,0 +1,1 @@
+Trying to compress images using Principal Component Analysis by chosing a subspace of all vectors.
